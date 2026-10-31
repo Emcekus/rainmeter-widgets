@@ -1,0 +1,11 @@
+{
+  "name": "katana-desktop",
+  "private": true,
+  "description": "Generator for the Katana Desktop Rainmeter suite",
+  "scripts": {
+    "build": "python build.py"
+  },
+  "dependencies": {
+    "playwright": "^1.47.0"
+  }
+}
